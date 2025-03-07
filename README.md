@@ -19,4 +19,4 @@ A simple password generator built with Python, UV and Streamlit.
 </b>
 
 
-<h1>You can check <a href="https://mk-password-generator.streamlit.app/">here</a> </h1>
+<h1>Try Password Strength Meter App <a href="https://mk-password-generator.streamlit.app/">Here</a> </h1>
