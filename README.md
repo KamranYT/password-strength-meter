@@ -8,9 +8,12 @@ A simple password generator built with Python, UV and Streamlit.
   <li>3. Feedback System ✅</li>
 </ul>
 
-<h2>Created a Password Strength Meter using Python that evaluates a user's password based on security rule. The program will:</h2>
+<h3>Created a Password Strength Meter using Python that evaluates a user's password based on security rule. The program will:</h3>
 <b>
   <ul classNmae="text-red">
-    <li>Analiy</li>
+    <li>. Analyze passwords based on length, character types, and patterns.</li>
+    <li>. Assing a strength score (Weak, Moderate, Strong).</li>
+    <li>Provide feedback to improve weak passwords.</li>
+    <li>Used control flow, type casting, strings, funcitons.</li>
   </ul>
 </b>
